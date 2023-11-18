@@ -1,0 +1,2968 @@
+-------------------------------------------------------------
+----------------------- !PROPERTIES! ------------------------
+-------------------------------------------------------------
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 1
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 1
+   prop. index: 1
+        SCF Energy:     -232.0988009206
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 1
+   prop. index: 1
+   Number of Alpha Electrons        20.9999941179 
+   Number of Alpha Electrons        20.9999941179 
+   Total nuber of  Electrons        41.9999882358 
+   Exchange energy                 -26.3846222947 
+   Correlation energy               -1.6339238525 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -28.0185461472 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 2
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 2
+   prop. index: 1
+        SCF Energy:     -232.0990201006
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 2
+   prop. index: 1
+   Number of Alpha Electrons        20.9999944569 
+   Number of Alpha Electrons        20.9999944569 
+   Total nuber of  Electrons        41.9999889137 
+   Exchange energy                 -26.3793950465 
+   Correlation energy               -1.6337188890 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -28.0131139356 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 3
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 3
+   prop. index: 1
+        SCF Energy:     -232.0990219287
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 3
+   prop. index: 1
+   Number of Alpha Electrons        20.9999944713 
+   Number of Alpha Electrons        20.9999944713 
+   Total nuber of  Electrons        41.9999889427 
+   Exchange energy                 -26.3803079122 
+   Correlation energy               -1.6337938711 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -28.0141017833 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ SCF_Electric_Properties
+   description: The SCF Calculated Electric Properties
+   geom. index: 3
+   prop. index: 1
+       Filename                          : sxt_benzeno.scfp 
+       Do Dipole Moment Calculation      : true 
+       Do Quadrupole Moment Calculation  : false 
+       Do Polarizability Calculation     : false 
+** Dipole moment part of electric properties **
+        Magnitude of dipole moment (Debye) :        0.0000623360
+        Electronic Contribution:
+                  0    
+      0      -0.000147
+      1      -0.000051
+      2      -0.000048
+        Nuclear Contribution:
+                  0    
+      0       0.000130
+      1       0.000035
+      2       0.000041
+        Total Dipole moment:
+                  0    
+      0      -0.000017
+      1      -0.000016
+      2      -0.000007
+# -----------------------------------------------------------
+$ PAL_Flags
+   description: The PAL Flags
+   geom. index: 4
+   prop. index: 1
+        Diskflag:     2
+# -----------------------------------------------------------
+$ SCF_Energy
+   description: The SCF energy
+   geom. index: 4
+   prop. index: 1
+        SCF Energy:     -232.0990219298
+# -----------------------------------------------------------
+$ DFT_Energy
+   description: The DFT energy
+   geom. index: 4
+   prop. index: 1
+   Number of Alpha Electrons        20.9999944711 
+   Number of Alpha Electrons        20.9999944711 
+   Total nuber of  Electrons        41.9999889423 
+   Exchange energy                 -26.3803042497 
+   Correlation energy               -1.6337936813 
+   Correlantion energy NL            0.0000000000 
+   Exchange-Correlation energy     -28.0140979310 
+   Embedding correction              0.0000000000 
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 1
+        Temperature (Kelvin)           :        300.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0014250593
+        Rotational Energy (Hartree)    :          0.0014250593
+        Vibrational Energy (Hartree)   :          0.0015913709
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9940403258
+        Enthalpy (Hartree)             :       -231.9930902580
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0122787529
+        Vibrational entropy            :          0.0021344587
+        Translational entropy          :          0.0122787529
+        Entropy                        :          0.0330642494
+        Gibbs Energy (Hartree)         :       -232.0261545074
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 2
+        Temperature (Kelvin)           :        300.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0014250593
+        Rotational Energy (Hartree)    :          0.0014250593
+        Vibrational Energy (Hartree)   :          0.0015913709
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9940403258
+        Enthalpy (Hartree)             :       -231.9930902580
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0122787529
+        Vibrational entropy            :          0.0021344587
+        Translational entropy          :          0.0122787529
+        Entropy                        :          0.0290280110
+        Gibbs Energy (Hartree)         :       -232.0221182690
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 3
+        Temperature (Kelvin)           :        300.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0014250593
+        Rotational Energy (Hartree)    :          0.0014250593
+        Vibrational Energy (Hartree)   :          0.0015913709
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9940403258
+        Enthalpy (Hartree)             :       -231.9930902580
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0122787529
+        Vibrational entropy            :          0.0021344587
+        Translational entropy          :          0.0122787529
+        Entropy                        :          0.0289011509
+        Gibbs Energy (Hartree)         :       -232.0219914089
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 4
+        Temperature (Kelvin)           :        300.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0014250593
+        Rotational Energy (Hartree)    :          0.0014250593
+        Vibrational Energy (Hartree)   :          0.0015913709
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9940403258
+        Enthalpy (Hartree)             :       -231.9930902580
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0122787529
+        Vibrational entropy            :          0.0021344587
+        Translational entropy          :          0.0122787529
+        Entropy                        :          0.0287892524
+        Gibbs Energy (Hartree)         :       -232.0218795104
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 5
+        Temperature (Kelvin)           :        400.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0019000791
+        Rotational Energy (Hartree)    :          0.0019000791
+        Vibrational Energy (Hartree)   :          0.0039719092
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9907097480
+        Enthalpy (Hartree)             :       -231.9894429910
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0169182892
+        Vibrational entropy            :          0.0055532524
+        Translational entropy          :          0.0169182892
+        Entropy                        :          0.0482506231
+        Gibbs Energy (Hartree)         :       -232.0376936141
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 6
+        Temperature (Kelvin)           :        400.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0019000791
+        Rotational Energy (Hartree)    :          0.0019000791
+        Vibrational Energy (Hartree)   :          0.0039719092
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9907097480
+        Enthalpy (Hartree)             :       -231.9894429910
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0169182892
+        Vibrational entropy            :          0.0055532524
+        Translational entropy          :          0.0169182892
+        Entropy                        :          0.0428689719
+        Gibbs Energy (Hartree)         :       -232.0323119629
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 7
+        Temperature (Kelvin)           :        400.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0019000791
+        Rotational Energy (Hartree)    :          0.0019000791
+        Vibrational Energy (Hartree)   :          0.0039719092
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9907097480
+        Enthalpy (Hartree)             :       -231.9894429910
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0169182892
+        Vibrational entropy            :          0.0055532524
+        Translational entropy          :          0.0169182892
+        Entropy                        :          0.0426998251
+        Gibbs Energy (Hartree)         :       -232.0321428161
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 8
+        Temperature (Kelvin)           :        400.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0019000791
+        Rotational Energy (Hartree)    :          0.0019000791
+        Vibrational Energy (Hartree)   :          0.0039719092
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9907097480
+        Enthalpy (Hartree)             :       -231.9894429910
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0169182892
+        Vibrational entropy            :          0.0055532524
+        Translational entropy          :          0.0169182892
+        Entropy                        :          0.0425506271
+        Gibbs Energy (Hartree)         :       -232.0319936180
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 9
+        Temperature (Kelvin)           :        500.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0023750988
+        Rotational Energy (Hartree)    :          0.0023750988
+        Vibrational Energy (Hartree)   :          0.0074126647
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9863189530
+        Enthalpy (Hartree)             :       -231.9847355067
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0216778495
+        Vibrational entropy            :          0.0107591732
+        Translational entropy          :          0.0216778495
+        Entropy                        :          0.0655441878
+        Gibbs Energy (Hartree)         :       -232.0502796945
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 10
+        Temperature (Kelvin)           :        500.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0023750988
+        Rotational Energy (Hartree)    :          0.0023750988
+        Vibrational Energy (Hartree)   :          0.0074126647
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9863189530
+        Enthalpy (Hartree)             :       -231.9847355067
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0216778495
+        Vibrational entropy            :          0.0107591732
+        Translational entropy          :          0.0216778495
+        Entropy                        :          0.0588171238
+        Gibbs Energy (Hartree)         :       -232.0435526304
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 11
+        Temperature (Kelvin)           :        500.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0023750988
+        Rotational Energy (Hartree)    :          0.0023750988
+        Vibrational Energy (Hartree)   :          0.0074126647
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9863189530
+        Enthalpy (Hartree)             :       -231.9847355067
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0216778495
+        Vibrational entropy            :          0.0107591732
+        Translational entropy          :          0.0216778495
+        Entropy                        :          0.0586056903
+        Gibbs Energy (Hartree)         :       -232.0433411969
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 12
+        Temperature (Kelvin)           :        500.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0023750988
+        Rotational Energy (Hartree)    :          0.0023750988
+        Vibrational Energy (Hartree)   :          0.0074126647
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9863189530
+        Enthalpy (Hartree)             :       -231.9847355067
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0216778495
+        Vibrational entropy            :          0.0107591732
+        Translational entropy          :          0.0216778495
+        Entropy                        :          0.0584191927
+        Gibbs Energy (Hartree)         :       -232.0431546994
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 13
+        Temperature (Kelvin)           :        600.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0028501186
+        Rotational Energy (Hartree)    :          0.0028501186
+        Vibrational Energy (Hartree)   :          0.0117321849
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9810493932
+        Enthalpy (Hartree)             :       -231.9791492576
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0265330575
+        Vibrational entropy            :          0.0176218278
+        Translational entropy          :          0.0265330575
+        Entropy                        :          0.0847495469
+        Gibbs Energy (Hartree)         :       -232.0638988045
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 14
+        Temperature (Kelvin)           :        600.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0028501186
+        Rotational Energy (Hartree)    :          0.0028501186
+        Vibrational Energy (Hartree)   :          0.0117321849
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9810493932
+        Enthalpy (Hartree)             :       -231.9791492576
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0265330575
+        Vibrational entropy            :          0.0176218278
+        Translational entropy          :          0.0265330575
+        Entropy                        :          0.0766770701
+        Gibbs Energy (Hartree)         :       -232.0558263277
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 15
+        Temperature (Kelvin)           :        600.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0028501186
+        Rotational Energy (Hartree)    :          0.0028501186
+        Vibrational Energy (Hartree)   :          0.0117321849
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9810493932
+        Enthalpy (Hartree)             :       -231.9791492576
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0265330575
+        Vibrational entropy            :          0.0176218278
+        Translational entropy          :          0.0265330575
+        Entropy                        :          0.0764233499
+        Gibbs Energy (Hartree)         :       -232.0555726075
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 16
+        Temperature (Kelvin)           :        600.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0028501186
+        Rotational Energy (Hartree)    :          0.0028501186
+        Vibrational Energy (Hartree)   :          0.0117321849
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9810493932
+        Enthalpy (Hartree)             :       -231.9791492576
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0265330575
+        Vibrational entropy            :          0.0176218278
+        Translational entropy          :          0.0265330575
+        Entropy                        :          0.0761995528
+        Gibbs Energy (Hartree)         :       -232.0553488104
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 17
+        Temperature (Kelvin)           :        700.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0033251383
+        Rotational Energy (Hartree)    :          0.0033251383
+        Vibrational Energy (Hartree)   :          0.0167610137
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9750705249
+        Enthalpy (Hartree)             :       -231.9728537000
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0314678061
+        Vibrational entropy            :          0.0259748731
+        Translational entropy          :          0.0314678061
+        Entropy                        :          0.1056574049
+        Gibbs Energy (Hartree)         :       -232.0785111049
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 18
+        Temperature (Kelvin)           :        700.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0033251383
+        Rotational Energy (Hartree)    :          0.0033251383
+        Vibrational Energy (Hartree)   :          0.0167610137
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9750705249
+        Enthalpy (Hartree)             :       -231.9728537000
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0314678061
+        Vibrational entropy            :          0.0259748731
+        Translational entropy          :          0.0314678061
+        Entropy                        :          0.0962395152
+        Gibbs Energy (Hartree)         :       -232.0690932153
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 19
+        Temperature (Kelvin)           :        700.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0033251383
+        Rotational Energy (Hartree)    :          0.0033251383
+        Vibrational Energy (Hartree)   :          0.0167610137
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9750705249
+        Enthalpy (Hartree)             :       -231.9728537000
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0314678061
+        Vibrational entropy            :          0.0259748731
+        Translational entropy          :          0.0314678061
+        Entropy                        :          0.0959435083
+        Gibbs Energy (Hartree)         :       -232.0687972084
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 20
+        Temperature (Kelvin)           :        700.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0033251383
+        Rotational Energy (Hartree)    :          0.0033251383
+        Vibrational Energy (Hartree)   :          0.0167610137
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9750705249
+        Enthalpy (Hartree)             :       -231.9728537000
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0314678061
+        Vibrational entropy            :          0.0259748731
+        Translational entropy          :          0.0314678061
+        Entropy                        :          0.0956824117
+        Gibbs Energy (Hartree)         :       -232.0685361118
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 21
+        Temperature (Kelvin)           :        800.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0038001581
+        Rotational Energy (Hartree)    :          0.0038001581
+        Vibrational Energy (Hartree)   :          0.0223674769
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9685140221
+        Enthalpy (Hartree)             :       -231.9659805080
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0364706473
+        Vibrational entropy            :          0.0356668831
+        Translational entropy          :          0.0364706473
+        Entropy                        :          0.1280858082
+        Gibbs Energy (Hartree)         :       -232.0940663162
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 22
+        Temperature (Kelvin)           :        800.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0038001581
+        Rotational Energy (Hartree)    :          0.0038001581
+        Vibrational Energy (Hartree)   :          0.0223674769
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9685140221
+        Enthalpy (Hartree)             :       -231.9659805080
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0364706473
+        Vibrational entropy            :          0.0356668831
+        Translational entropy          :          0.0364706473
+        Entropy                        :          0.1173225058
+        Gibbs Energy (Hartree)         :       -232.0833030138
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 23
+        Temperature (Kelvin)           :        800.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0038001581
+        Rotational Energy (Hartree)    :          0.0038001581
+        Vibrational Energy (Hartree)   :          0.0223674769
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9685140221
+        Enthalpy (Hartree)             :       -231.9659805080
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0364706473
+        Vibrational entropy            :          0.0356668831
+        Translational entropy          :          0.0364706473
+        Entropy                        :          0.1169842122
+        Gibbs Energy (Hartree)         :       -232.0829647202
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 24
+        Temperature (Kelvin)           :        800.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0038001581
+        Rotational Energy (Hartree)    :          0.0038001581
+        Vibrational Energy (Hartree)   :          0.0223674769
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9685140221
+        Enthalpy (Hartree)             :       -231.9659805080
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0364706473
+        Vibrational entropy            :          0.0356668831
+        Translational entropy          :          0.0364706473
+        Entropy                        :          0.1166858160
+        Gibbs Energy (Hartree)         :       -232.0826663241
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 25
+        Temperature (Kelvin)           :        900.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0042751779
+        Rotational Energy (Hartree)    :          0.0042751779
+        Vibrational Energy (Hartree)   :          0.0284524553
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9614790043
+        Enthalpy (Hartree)             :       -231.9586288009
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0415330217
+        Vibrational entropy            :          0.0465694144
+        Translational entropy          :          0.0415330217
+        Entropy                        :          0.1518834876
+        Gibbs Energy (Hartree)         :       -232.1105122885
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 26
+        Temperature (Kelvin)           :        900.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0042751779
+        Rotational Energy (Hartree)    :          0.0042751779
+        Vibrational Energy (Hartree)   :          0.0284524553
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9614790043
+        Enthalpy (Hartree)             :       -231.9586288009
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0415330217
+        Vibrational entropy            :          0.0465694144
+        Translational entropy          :          0.0415330217
+        Entropy                        :          0.1397747724
+        Gibbs Energy (Hartree)         :       -232.0984035733
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 27
+        Temperature (Kelvin)           :        900.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0042751779
+        Rotational Energy (Hartree)    :          0.0042751779
+        Vibrational Energy (Hartree)   :          0.0284524553
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9614790043
+        Enthalpy (Hartree)             :       -231.9586288009
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0415330217
+        Vibrational entropy            :          0.0465694144
+        Translational entropy          :          0.0415330217
+        Entropy                        :          0.1393941921
+        Gibbs Energy (Hartree)         :       -232.0980229930
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 28
+        Temperature (Kelvin)           :        900.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0042751779
+        Rotational Energy (Hartree)    :          0.0042751779
+        Vibrational Energy (Hartree)   :          0.0284524553
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9614790043
+        Enthalpy (Hartree)             :       -231.9586288009
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0415330217
+        Vibrational entropy            :          0.0465694144
+        Translational entropy          :          0.0415330217
+        Entropy                        :          0.1390584964
+        Gibbs Energy (Hartree)         :       -232.0976872974
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 29
+        Temperature (Kelvin)           :       1000.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0047501976
+        Rotational Energy (Hartree)    :          0.0047501976
+        Vibrational Energy (Hartree)   :          0.0349397759
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9540416441
+        Enthalpy (Hartree)             :       -231.9508747514
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0466482851
+        Vibrational entropy            :          0.0585737509
+        Translational entropy          :          0.0466482851
+        Entropy                        :          0.1769240098
+        Gibbs Energy (Hartree)         :       -232.1277987613
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 30
+        Temperature (Kelvin)           :       1000.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0047501976
+        Rotational Energy (Hartree)    :          0.0047501976
+        Vibrational Energy (Hartree)   :          0.0349397759
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9540416441
+        Enthalpy (Hartree)             :       -231.9508747514
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0466482851
+        Vibrational entropy            :          0.0585737509
+        Translational entropy          :          0.0466482851
+        Entropy                        :          0.1634698818
+        Gibbs Energy (Hartree)         :       -232.1143446332
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 31
+        Temperature (Kelvin)           :       1000.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0047501976
+        Rotational Energy (Hartree)    :          0.0047501976
+        Vibrational Energy (Hartree)   :          0.0349397759
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9540416441
+        Enthalpy (Hartree)             :       -231.9508747514
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0466482851
+        Vibrational entropy            :          0.0585737509
+        Translational entropy          :          0.0466482851
+        Entropy                        :          0.1630470148
+        Gibbs Energy (Hartree)         :       -232.1139217662
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 32
+        Temperature (Kelvin)           :       1000.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0047501976
+        Rotational Energy (Hartree)    :          0.0047501976
+        Vibrational Energy (Hartree)   :          0.0349397759
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9540416441
+        Enthalpy (Hartree)             :       -231.9508747514
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0466482851
+        Vibrational entropy            :          0.0585737509
+        Translational entropy          :          0.0466482851
+        Entropy                        :          0.1626740197
+        Gibbs Energy (Hartree)         :       -232.1135487711
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 33
+        Temperature (Kelvin)           :       1100.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0052252174
+        Rotational Energy (Hartree)    :          0.0052252174
+        Vibrational Energy (Hartree)   :          0.0417690084
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9462623721
+        Enthalpy (Hartree)             :       -231.9427787902
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0518111301
+        Vibrational entropy            :          0.0715866129
+        Translational entropy          :          0.0518111301
+        Entropy                        :          0.2030999414
+        Gibbs Energy (Hartree)         :       -232.1458787316
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 34
+        Temperature (Kelvin)           :       1100.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0052252174
+        Rotational Energy (Hartree)    :          0.0052252174
+        Vibrational Energy (Hartree)   :          0.0417690084
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9462623721
+        Enthalpy (Hartree)             :       -231.9427787902
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0518111301
+        Vibrational entropy            :          0.0715866129
+        Translational entropy          :          0.0518111301
+        Entropy                        :          0.1883004006
+        Gibbs Energy (Hartree)         :       -232.1310791908
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 35
+        Temperature (Kelvin)           :       1100.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0052252174
+        Rotational Energy (Hartree)    :          0.0052252174
+        Vibrational Energy (Hartree)   :          0.0417690084
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9462623721
+        Enthalpy (Hartree)             :       -231.9427787902
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0518111301
+        Vibrational entropy            :          0.0715866129
+        Translational entropy          :          0.0518111301
+        Entropy                        :          0.1878352469
+        Gibbs Energy (Hartree)         :       -232.1306140371
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 36
+        Temperature (Kelvin)           :       1100.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0052252174
+        Rotational Energy (Hartree)    :          0.0052252174
+        Vibrational Energy (Hartree)   :          0.0417690084
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9462623721
+        Enthalpy (Hartree)             :       -231.9427787902
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0518111301
+        Vibrational entropy            :          0.0715866129
+        Translational entropy          :          0.0518111301
+        Entropy                        :          0.1874249522
+        Gibbs Energy (Hartree)         :       -232.1302037425
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 37
+        Temperature (Kelvin)           :       1200.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0057002372
+        Rotational Energy (Hartree)    :          0.0057002372
+        Vibrational Energy (Hartree)   :          0.0488909324
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9381904085
+        Enthalpy (Hartree)             :       -231.9343901374
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0570172183
+        Vibrational entropy            :          0.0855269329
+        Translational entropy          :          0.0570172183
+        Entropy                        :          0.2303186465
+        Gibbs Energy (Hartree)         :       -232.1647087839
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 38
+        Temperature (Kelvin)           :       1200.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0057002372
+        Rotational Energy (Hartree)    :          0.0057002372
+        Vibrational Energy (Hartree)   :          0.0488909324
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9381904085
+        Enthalpy (Hartree)             :       -231.9343901374
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0570172183
+        Vibrational entropy            :          0.0855269329
+        Translational entropy          :          0.0570172183
+        Entropy                        :          0.2141736929
+        Gibbs Energy (Hartree)         :       -232.1485638302
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 39
+        Temperature (Kelvin)           :       1200.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0057002372
+        Rotational Energy (Hartree)    :          0.0057002372
+        Vibrational Energy (Hartree)   :          0.0488909324
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9381904085
+        Enthalpy (Hartree)             :       -231.9343901374
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0570172183
+        Vibrational entropy            :          0.0855269329
+        Translational entropy          :          0.0570172183
+        Entropy                        :          0.2136662525
+        Gibbs Energy (Hartree)         :       -232.1480563898
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 40
+        Temperature (Kelvin)           :       1200.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0057002372
+        Rotational Energy (Hartree)    :          0.0057002372
+        Vibrational Energy (Hartree)   :          0.0488909324
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9381904085
+        Enthalpy (Hartree)             :       -231.9343901374
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0570172183
+        Vibrational entropy            :          0.0855269329
+        Translational entropy          :          0.0570172183
+        Entropy                        :          0.2132186583
+        Gibbs Energy (Hartree)         :       -232.1476087957
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 41
+        Temperature (Kelvin)           :       1300.0000000000
+        Pressure (atm)                 :          1.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0061752569
+        Rotational Energy (Hartree)    :          0.0061752569
+        Vibrational Energy (Hartree)   :          0.0562647498
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9298665516
+        Enthalpy (Hartree)             :       -231.9257495912
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0622629374
+        Vibrational entropy            :          0.1003236326
+        Translational entropy          :          0.0622629374
+        Entropy                        :          0.2584994138
+        Gibbs Energy (Hartree)         :       -232.1842490050
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 42
+        Temperature (Kelvin)           :       1300.0000000000
+        Pressure (atm)                 :         70.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0061752569
+        Rotational Energy (Hartree)    :          0.0061752569
+        Vibrational Energy (Hartree)   :          0.0562647498
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9298665516
+        Enthalpy (Hartree)             :       -231.9257495912
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0622629374
+        Vibrational entropy            :          0.1003236326
+        Translational entropy          :          0.0622629374
+        Entropy                        :          0.2410090473
+        Gibbs Energy (Hartree)         :       -232.1667586385
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 43
+        Temperature (Kelvin)           :       1300.0000000000
+        Pressure (atm)                 :         80.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0061752569
+        Rotational Energy (Hartree)    :          0.0061752569
+        Vibrational Energy (Hartree)   :          0.0562647498
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9298665516
+        Enthalpy (Hartree)             :       -231.9257495912
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0622629374
+        Vibrational entropy            :          0.1003236326
+        Translational entropy          :          0.0622629374
+        Entropy                        :          0.2404593202
+        Gibbs Energy (Hartree)         :       -232.1662089114
+        Is Linear                      :                 false
+# -----------------------------------------------------------
+$ THERMOCHEMISTRY_Energies
+   description: The Thermochemistry energies
+   geom. index: 4
+   prop. index: 44
+        Temperature (Kelvin)           :       1300.0000000000
+        Pressure (atm)                 :         90.0000000000
+        Total Mass (AMU)               :         78.1140000000
+        Spin Degeneracy                :          1.0000000000
+        Electronic Energy (Hartree)    :       -232.0990219298
+        Translational Energy (Hartree) :          0.0061752569
+        Rotational Energy (Hartree)    :          0.0061752569
+        Vibrational Energy (Hartree)   :          0.0562647498
+        Number of frequencies          :     36      
+        Scaling Factor for frequencies :          1.0000000000
+        Vibrational frequencies        :     
+                  0    
+      0       0.000000
+      1       0.000000
+      2       0.000000
+      3       0.000000
+      4       0.000000
+      5       0.000000
+      6     414.031596
+      7     414.728536
+      8     620.549840
+      9     620.833762
+     10     693.575956
+     11     718.040176
+     12     865.279833
+     13     865.885503
+     14     974.685780
+     15     975.227462
+     16     1013.676162
+     17     1017.592393
+     18     1017.885835
+     19     1061.857520
+     20     1065.226242
+     21     1179.153494
+     22     1201.178770
+     23     1201.463190
+     24     1353.431158
+     25     1380.425429
+     26     1522.974416
+     27     1527.309030
+     28     1650.063233
+     29     1650.836042
+     30     3171.022102
+     31     3180.036883
+     32     3180.275896
+     33     3194.893727
+     34     3195.126487
+     35     3204.742629
+        Zero Point Energy (Hartree)    :          0.1005401145
+        Inner Energy (Hartree)         :       -231.9298665516
+        Enthalpy (Hartree)             :       -231.9257495912
+        Electronic entropy             :          0.0000000000
+        Rotational entropy             :          0.0622629374
+        Vibrational entropy            :          0.1003236326
+        Translational entropy          :          0.0622629374
+        Entropy                        :          0.2399744266
+        Gibbs Energy (Hartree)         :       -232.1657240177
+        Is Linear                      :                 false
+# -------------------------------------------------------------
+----------------------- !GEOMETRIES! ------------------------
+# -------------------------------------------------------------
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    12 
+    Geometry Index:     1 
+    Coordinates:
+               0 C     -0.739000000000    1.189000000000   -0.007334000000
+               1 C      0.614000000000    1.208000000000    0.351666000000
+               2 C      1.353000000000    0.019000000000    0.358666000000
+               3 C      0.739000000000   -1.189000000000    0.006666000000
+               4 C     -0.614000000000   -1.208000000000   -0.351334000000
+               5 C     -1.353000000000   -0.019000000000   -0.358334000000
+               6 H     -1.309000000000    2.106000000000   -0.012334000000
+               7 H      1.088000000000    2.140000000000    0.622666000000
+               8 H      2.397000000000    0.034000000000    0.634666000000
+               9 H      1.309000000000   -2.106000000000    0.012666000000
+              10 H     -1.088000000000   -2.140000000000   -0.622334000000
+              11 H     -2.397000000000   -0.034000000000   -0.635334000000
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    12 
+    Geometry Index:     2 
+    Coordinates:
+               0 C     -0.737866501022    1.186983540933   -0.007032863456
+               1 C      0.612990867937    1.205965243682    0.350970936618
+               2 C      1.350770700140    0.018998223343    0.357856971765
+               3 C      0.737728752762   -1.187051691526    0.007115616422
+               4 C     -0.612972806700   -1.205965986814   -0.351004943700
+               5 C     -1.350751780701   -0.018950679790   -0.357943174318
+               6 H     -1.311421323981    2.109817873143   -0.012506844134
+               7 H      1.089766876132    2.143502196721    0.623715579615
+               8 H      2.401134036966    0.033993825731    0.635589314933
+               9 H      1.311407653570   -2.109806999139    0.013018221065
+              10 H     -1.089751223487   -2.143499724971   -0.623769177995
+              11 H     -2.401035251616   -0.033985821313   -0.636017636814
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    12 
+    Geometry Index:     3 
+    Coordinates:
+               0 C     -0.737569980203    1.186564666900   -0.007072599401
+               1 C      0.612771891908    1.205536801613    0.350849271254
+               2 C      1.350256858995    0.018987146867    0.357785144302
+               3 C      0.737511851528   -1.186590505308    0.007051168202
+               4 C     -0.612773945346   -1.205551585463   -0.350849268000
+               5 C     -1.350272036940   -0.018966588025   -0.357791546433
+               6 H     -1.311254265267    2.109580946191   -0.012731853929
+               7 H      1.089613528250    2.143259886361    0.623690166603
+               8 H      2.400814134446    0.033905248794    0.635645794795
+               9 H      1.311334555242   -2.109520139206    0.012857031095
+              10 H     -1.089627806609   -2.143268214081   -0.623695544127
+              11 H     -2.400804786004   -0.033937664643   -0.635745764363
+------------------------ !GEOMETRY! -------------------------
+    Number of atoms:    12 
+    Geometry Index:     4 
+    Coordinates:
+               0 C     -0.737569980203    1.186564666900   -0.007072599401
+               1 C      0.612771891908    1.205536801613    0.350849271254
+               2 C      1.350256858995    0.018987146867    0.357785144302
+               3 C      0.737511851528   -1.186590505308    0.007051168202
+               4 C     -0.612773945346   -1.205551585463   -0.350849268000
+               5 C     -1.350272036940   -0.018966588025   -0.357791546433
+               6 H     -1.311254265267    2.109580946191   -0.012731853929
+               7 H      1.089613528250    2.143259886361    0.623690166603
+               8 H      2.400814134446    0.033905248794    0.635645794795
+               9 H      1.311334555242   -2.109520139206    0.012857031095
+              10 H     -1.089627806609   -2.143268214081   -0.623695544127
+              11 H     -2.400804786004   -0.033937664643   -0.635745764363
